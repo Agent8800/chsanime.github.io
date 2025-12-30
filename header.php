@@ -10,7 +10,7 @@
 
 <header>
     <div class="header-left">
-        <a href="<?php echo home_url(); ?>" class="logo">Stream<span>In</span></a>
+        <a href="<?php echo home_url(); ?>" class="logo">chsanime<span>In</span></a>
     </div>
     <div class="nav-icons">
         <!-- Search Icon Link -->
